@@ -1,4 +1,4 @@
-package com.engima.lifesaver;
+package com.enigma.lifesaver;
 
 import org.json.JSONException;
 import org.json.JSONObject;

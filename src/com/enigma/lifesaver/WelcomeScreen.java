@@ -1,4 +1,4 @@
-package com.engima.lifesaver;
+package com.enigma.lifesaver;
 
 import android.app.Activity;
 import android.app.AlertDialog;

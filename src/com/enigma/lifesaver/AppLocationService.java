@@ -1,4 +1,4 @@
-package com.engima.lifesaver;
+package com.enigma.lifesaver;
 
 import android.app.Service;
 import android.content.Context;

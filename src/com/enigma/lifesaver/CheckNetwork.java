@@ -1,4 +1,4 @@
-package com.engima.lifesaver;
+package com.enigma.lifesaver;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

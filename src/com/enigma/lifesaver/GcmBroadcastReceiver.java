@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.engima.lifesaver;
+package com.enigma.lifesaver;
 
 import android.app.Activity;
 import android.content.ComponentName;

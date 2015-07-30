@@ -1,4 +1,4 @@
-package com.engima.lifesaver;
+package com.enigma.lifesaver;
 
 import java.util.HashMap;
 import java.util.Iterator;
